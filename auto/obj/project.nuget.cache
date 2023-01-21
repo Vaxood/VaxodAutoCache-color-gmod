@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fk2dwy1URVTpZQxR6/eg6u9n224oywaXQxJeRnrL8fvt64U1KqaOIBXdxZLARYC+WyWdP6x8d5ffPBqI9hI+SA==",
+  "success": true,
+  "projectFilePath": "C:\\c#\\auto\\auto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vaxod\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.2\\microsoft.netcore.app.runtime.win-x64.7.0.2.nupkg.sha512",
+    "C:\\Users\\Vaxod\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.2.nupkg.sha512",
+    "C:\\Users\\Vaxod\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.2\\microsoft.aspnetcore.app.runtime.win-x64.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

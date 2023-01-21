@@ -1,0 +1,5 @@
+C:\c#\auto\bin\Debug\net7.0\publish\auto.exe
+C:\c#\auto\bin\Debug\net7.0\publish\auto.dll
+C:\c#\auto\bin\Debug\net7.0\publish\auto.deps.json
+C:\c#\auto\bin\Debug\net7.0\publish\auto.runtimeconfig.json
+C:\c#\auto\bin\Debug\net7.0\publish\auto.pdb

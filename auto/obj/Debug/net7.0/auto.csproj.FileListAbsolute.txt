@@ -1,0 +1,15 @@
+C:\c#\auto\bin\Debug\net7.0\auto.exe
+C:\c#\auto\bin\Debug\net7.0\auto.deps.json
+C:\c#\auto\bin\Debug\net7.0\auto.runtimeconfig.json
+C:\c#\auto\bin\Debug\net7.0\auto.dll
+C:\c#\auto\bin\Debug\net7.0\auto.pdb
+C:\c#\auto\obj\Debug\net7.0\auto.csproj.AssemblyReference.cache
+C:\c#\auto\obj\Debug\net7.0\auto.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\auto\obj\Debug\net7.0\auto.AssemblyInfoInputs.cache
+C:\c#\auto\obj\Debug\net7.0\auto.AssemblyInfo.cs
+C:\c#\auto\obj\Debug\net7.0\auto.csproj.CoreCompileInputs.cache
+C:\c#\auto\obj\Debug\net7.0\auto.dll
+C:\c#\auto\obj\Debug\net7.0\refint\auto.dll
+C:\c#\auto\obj\Debug\net7.0\auto.pdb
+C:\c#\auto\obj\Debug\net7.0\auto.genruntimeconfig.cache
+C:\c#\auto\obj\Debug\net7.0\ref\auto.dll
